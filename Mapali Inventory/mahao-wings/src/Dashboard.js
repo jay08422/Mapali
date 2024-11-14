@@ -72,10 +72,6 @@ const styles = {
         borderRadius: '5px',
         marginBottom: '20px',
     },
-    headerText: {
-        margin: '0',
-        fontSize: '24px',
-    },
     navButtons: {
         marginTop: '10px',
         display: 'flex',
